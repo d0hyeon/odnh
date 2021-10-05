@@ -1,0 +1,32 @@
+{
+  "name": "@odnh/use-history-state",
+  "version": "0.1.7",
+  "description": "react hook useHistoryState",
+  "keywords": [
+    "react",
+    "react hook",
+    "state",
+    "history"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0hyeon/useHistoryState"
+  },
+  "bugs": {
+    "email": "ehgus6887@gmail.com"
+  },
+  "author": {
+    "name": "김도현",
+    "email": "ehgus6887@gmail.com"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "@odnh/use-key-press",
+  "version": "0.0.8",
+  "description": "react hook useKeyPress",
+  "keywords": [
+    "react",
+    "react hook",
+    "use",
+    "key",
+    "press",
+    "key",
+    "code",
+    "key code",
+    "pressing key codes"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0hyeon/useKeyPress"
+  },
+  "bugs": {
+    "email": "ehgus6887@gmail.com"
+  },
+  "author": {
+    "name": "김도현",
+    "email": "ehgus6887@gmail.com"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  }
+}

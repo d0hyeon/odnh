@@ -1,0 +1,38 @@
+{
+  "name": "@odnh/use-swipe",
+  "version": "1.0.4",
+  "description": "react hook useSwipe",
+  "keywords": [
+    "react",
+    "react hook",
+    "swipe",
+    "use swipe"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0hyeon/useSwipe"
+  },
+  "bugs": {
+    "email": "ehgus6887@gmail.com"
+  },
+  "author": {
+    "name": "김도현",
+    "email": "ehgus6887@gmail.com"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --no-cache"
+  }
+}
