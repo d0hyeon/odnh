@@ -1,5 +1,5 @@
 {
-  "name": "packages",
+  "name": "odnh",
   "private": true,
   "workspaces": [
     "packages/*"
